@@ -1,0 +1,6 @@
+framework module YiViewDrag {
+  umbrella header "YiViewDrag-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - YiViewDrag (0.1.0)
+
+DEPENDENCIES:
+  - YiViewDrag (from `../`)
+
+EXTERNAL SOURCES:
+  YiViewDrag:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YiViewDrag: 276b0cd8038e3133d590d707905370abdf05f907
+
+PODFILE CHECKSUM: 78f14a9ebe6a69b2fd3e782b0206d1dc874a52f2
+
+COCOAPODS: 1.10.0
